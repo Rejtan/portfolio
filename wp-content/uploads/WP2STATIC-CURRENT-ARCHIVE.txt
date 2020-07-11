@@ -1,1 +1,1 @@
-/var/www/html/wp-content/uploads/wp-static-html-output-1594501566/
+/home/rejtan/Local Sites/portfolio/app/public/wp-content/uploads/wp-static-html-output-1594506371/
